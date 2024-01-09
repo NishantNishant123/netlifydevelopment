@@ -1,0 +1,2 @@
+# Redirect from /hello to the original function URL
+/hello   /.netlify/functions/hello   200
